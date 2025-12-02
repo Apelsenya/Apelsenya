@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**Apelsenya/Apelsenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Apelsenya (Not my real name ofc), studying in university.
 
-Here are some ideas to get you started:
+I keep studying for most of my time, but in my free time I create (don't ask me what).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can code in any language you ask me (with Mr.ChatGPT ofc). But if I am being for real then I can code in Python, C++ and can a little bit of script-programming.
+
+I like Cybersecurity, more specific red-team (pentesting).
+
+I play many games, but my favorite games are CS2 and Minecraft (One of these games are friendly if you can guess which xD)
+
+And if you came this far of reading, then I have nothing to say more. Bye!
