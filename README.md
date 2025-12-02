@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I am Apelsenya (Not my real name ofc), studying in university.
+I am Apelsenya (Not my real name ofc), studying at university.
 
 I keep studying for most of my time, but in my free time I create (don't ask me what).
 
