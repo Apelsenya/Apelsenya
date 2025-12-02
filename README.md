@@ -1,5 +1,5 @@
 ## Hello there! 👋
-
+![image_alt](https://github.com/Apelsenya/Discord---AchievifyBot/blob/main/Cosmos.jpg?raw=true)
 I am Apelsenya (Not my real name ofc), studying at university.
 
 I keep studying for most of my time, but in my free time I create (don't ask me what).
