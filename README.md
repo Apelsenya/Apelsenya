@@ -10,4 +10,4 @@ I like Cybersecurity, more specific red-team (pentesting).
 
 I play many games, but my favorite games are CS2 and Minecraft (One of these games are friendly if you can guess which xD)
 
-And if you came this far of reading, then I have nothing to say more. Bye!
+And if you came this far of reading, then I have nothing more to say. Bye!
